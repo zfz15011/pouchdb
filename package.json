@@ -51,7 +51,7 @@
     "localstorage-down": "0.6.7",
     "ltgt": "2.2.0",
     "memdown": "1.2.4",
-    "node-fetch": "^2.0.0",
+    "node-fetch": "2.1.1",
     "readable-stream": "1.0.33",
     "request": "2.83.0",
     "spark-md5": "3.0.0",
